@@ -1,0 +1,5 @@
+weight=int(input("Enter the weight of prism")
+Height=int(input("Enter the height of prism")
+Lenght=int(input("Enter the lenght of prism")
+AOF_prism=2(weight*Lenght+Lenght*Height+Height*weight)
+print(AOF_prism)
